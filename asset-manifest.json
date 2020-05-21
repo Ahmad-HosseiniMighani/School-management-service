@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0303436b.chunk.css",
+    "main.js": "/static/js/main.84082f39.chunk.js",
+    "main.js.map": "/static/js/main.84082f39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f4addf8d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f4addf8d.js.map",
+    "static/css/2.c7489624.chunk.css": "/static/css/2.c7489624.chunk.css",
+    "static/js/2.3073479e.chunk.js": "/static/js/2.3073479e.chunk.js",
+    "static/js/2.3073479e.chunk.js.map": "/static/js/2.3073479e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dccc1f285c4a6fa1052b41c8914d932e.js": "/precache-manifest.dccc1f285c4a6fa1052b41c8914d932e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c7489624.chunk.css.map": "/static/css/2.c7489624.chunk.css.map",
+    "static/css/main.0303436b.chunk.css.map": "/static/css/main.0303436b.chunk.css.map",
+    "static/js/2.3073479e.chunk.js.LICENSE.txt": "/static/js/2.3073479e.chunk.js.LICENSE.txt",
+    "static/media/Student-Default-Icon.png": "/static/media/Student-Default-Icon.5ea83621.png",
+    "static/media/font-face.css": "/static/media/Vazir.b72f4d53.woff",
+    "static/media/all.css": "/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4addf8d.js",
+    "static/css/2.c7489624.chunk.css",
+    "static/js/2.3073479e.chunk.js",
+    "static/css/main.0303436b.chunk.css",
+    "static/js/main.84082f39.chunk.js"
+  ]
+}
